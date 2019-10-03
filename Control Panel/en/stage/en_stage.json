@@ -3,10 +3,10 @@
     "product": "controlPanel",
     "langage": "en",
     "generationDate": "10_02_2019",
-    "version": "production",
+    "version": "stage",
     "entry": [
      {
-        "tags": "cp_overview",
+        "id": "cp_overview",
         "title": "About Control Panel",
         "description": "The Control Panel home page gives you access to all actions that can be performed on your Campaign instances.",
         "link": [
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "tags": "cp_storage",
+        "id": "cp_storage",
         "title": "About storage capacity",
         "description": "In this tab, you can view the storage capacity and utilization information for your SFTP servers.Only SFTP servers that you have access to are shown here. Please contact your Administrator to request access to other SFTP servers.",
         "link": [
@@ -69,7 +69,7 @@
         ]
       },
       {
-       "tags": "cp_sftp_iprange_add",
+       "id": "cp_sftp_iprange_add",
         "title": "Add New Ip Range",
         "description": "Define the IP Range that you want to whitelist,in the CIDR format to connect to your SFTP servers.",
         "link": [
@@ -80,7 +80,7 @@
         ]
       },
       {
-       "tags": "cp_sftp_publicKey_add",
+       "id": "cp_sftp_publicKey_add",
         "title": "Add New Public Key",
         "description": "Define a new public key for an instance.",
         "link": [
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "tags": "cp_instancesettings_iprange",
+        "id": "cp_instancesettings_iprange",
         "title": "About IP Whitelisting",
         "description": "Manage IP Whitelisting to access your instances.",
         "link": [
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "tags": "cp_instancesettings_urlpermissions",
+        "id": "cp_instancesettings_urlpermissions",
         "title": "About URL permissions",
         "description": "Manage the URLs that your Adobe Campaign instances can connect to. You can view, add and delete the URLs that your selected instance can connect to below.",
         "link": [
@@ -123,7 +123,7 @@
         ]
       },
       {
-        "tags": "cp_instancesettings_instancedetails",
+        "id": "cp_instancesettings_instancedetails",
         "title": "About Instance details",
         "description": "View the details of your Adobe Campaign instances: types, names, build information and possible upgrade recommendations.",
         "link": [
@@ -134,7 +134,7 @@
         ]
       },
       {
-        "tags": "cp_instancesettings_iprange_add",
+        "id": "cp_instancesettings_iprange_add",
         "title": "Add New Ip Range",
         "description": "Define the IP Range that you want to whitelist,in the CIDR format to connect to your instance.",
         "link": [
@@ -145,7 +145,7 @@
         ]
       },
       {
-        "tags": "cp_instancesettings_url_add",
+        "id": "cp_instancesettings_url_add",
         "title": "Add new URL",
         "description": "Add URLs to allow to connection to your campaign instance.",
         "link": [
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "tags": "cp_certificate_management",
+        "id": "cp_certificate_management",
         "description": "Monitor your subdomains and SSL certificates and initiate the process for certificate renewal.",
         "link": [
           {
@@ -170,7 +170,7 @@
         ]
       },
       {
-        "tags": "cp_certificate_details",
+        "id": "cp_certificate_details",
         "description": "Get details on a certificate and initiate the renewal process.",
         "link": [
           {
