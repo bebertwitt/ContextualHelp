@@ -37,7 +37,7 @@
         ]
       },
       {
-        "tags": "cp_ip_whitelist",
+        "id": "cp_ip_whitelist",
         "title": "About IP whitelisting",
         "description": "In this tab you can whitelist IP ranges to establish connection to your SFTP servers.Only SFTP servers that you have an access to are shown here. Please contact your Administrator to request access to other SFTP servers.",
         "link": [
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "tags": "cp_key_management",
+        "id": "cp_key_management",
         "title": "About Key Management",
         "description": "In this tab you can manage your public keys.",
         "link": [
