@@ -157,6 +157,7 @@
       },
       {
         "id": "cp_certificate_management",
+        "title": "About subdomains and SSL certificates",
         "description": "Monitor your subdomains and SSL certificates and initiate the process for certificate renewal.",
         "link": [
           {
@@ -171,11 +172,27 @@
       },
       {
         "id": "cp_certificate_details",
+        "title": "Certificate details",
         "description": "Get details on a certificate and initiate the renewal process.",
         "link": [
           {
             "url": "https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html",
             "title": "Learn more about certificate details"
+          }
+        ]
+      },
+      {
+        "id": "cp_instance_version",
+        "title": "About your instance version",
+        "description": "Visit the latest release notes for updated build information. Follow the documentation for help performing an upgrade.",
+        "link": [
+          {
+            "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html",
+            "title": "Release notes"
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/updating-adobe-campaign/introduction.html",
+            "title": "Upgrade documentation"
           }
         ]
       }
