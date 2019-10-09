@@ -184,7 +184,7 @@
       {
         "id": "cp_instance_version",
         "title": "About your instance version",
-        "description": "Visit the latest release notes for updated build information. Follow the documentation for help performing an upgrade.",
+        "description": "Visit the latest release notes for updated build information. Follow the documentation to perform an upgrade.",
         "link": [
           {
             "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html",
